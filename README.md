@@ -1,2 +1,0 @@
-# benawa
-Project testing PWA

@@ -1,0 +1,36 @@
+{
+"animal": [
+  {"id":1,"name":"Ara ararauna","color":"Orange"},
+  {"id":2,"name":"Lutra canadensis","color":"Orange"},
+  {"id":3,"name":"Haliaeetus leucoryphus","color":"Teal"},
+  {"id":4,"name":"Columba livia","color":"Crimson"},
+  {"id":5,"name":"Anathana ellioti","color":"Mauv"},
+  {"id":6,"name":"Iguana iguana","color":"Crimson"},
+  {"id":7,"name":"Phascolarctos cinereus","color":"Aquamarine"},
+  {"id":8,"name":"Felis wiedi or Leopardus weidi","color":"Green"},
+  {"id":9,"name":"Grus canadensis","color":"Fuscia"},
+  {"id":10,"name":"Theropithecus gelada","color":"Green"},
+  {"id":11,"name":"Bison bison","color":"Teal"},
+  {"id":12,"name":"Cyrtodactylus louisiadensis","color":"Mauv"},
+  {"id":13,"name":"Plectopterus gambensis","color":"Puce"},
+  {"id":14,"name":"Ramphastos tucanus","color":"Orange"},
+  {"id":15,"name":"Gazella granti","color":"Indigo"},
+  {"id":16,"name":"Eudromia elegans","color":"Fuscia"},
+  {"id":17,"name":"Francolinus coqui","color":"Orange"},
+  {"id":18,"name":"Junonia genoveua","color":"Crimson"},
+  {"id":19,"name":"Geospiza sp.","color":"Purple"},
+  {"id":20,"name":"Passer domesticus","color":"Khaki"},
+  {"id":21,"name":"Pelecanus conspicillatus","color":"Crimson"},
+  {"id":22,"name":"Ctenophorus ornatus","color":"Red"},
+  {"id":23,"name":"Pan troglodytes","color":"Mauv"},
+  {"id":24,"name":"Macropus rufus","color":"Maroon"},
+  {"id":25,"name":"Mabuya spilogaster","color":"Green"},
+  {"id":26,"name":"Loris tardigratus","color":"Blue"},
+  {"id":27,"name":"Casmerodius albus","color":"Khaki"},
+  {"id":28,"name":"Tachybaptus ruficollis","color":"Goldenrod"},
+  {"id":29,"name":"Bassariscus astutus","color":"Mauv"},
+  {"id":30,"name":"Ceratotherium simum","color":"Violet"},
+  {"id":31,"name":"Haematopus ater","color":"Khaki"}
+  ]
+}
+
